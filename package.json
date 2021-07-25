@@ -1,0 +1,17 @@
+{
+  "name": "electron-demo",
+  "version": "0.1.0",
+  "private": true,
+  "author": {
+    "name": "KyleBing",
+    "email": "kylebing@163.com"
+  },
+  "description": "demo-electron",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^13.1.7"
+  }
+}
